@@ -5,7 +5,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/employee-attrition-home.png" alt="Employee Attrition Predictor" width="400"/>
+  <img src="images/employee-attrition-home.png" alt="Employee Attrition Predictor" width="500"/>
 </p>
 
 ---
