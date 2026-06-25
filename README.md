@@ -1,11 +1,11 @@
-## 💼 Employee Attrition Predictor
+# 💼 Employee Attrition Predictor
 
 🚀 **Live Demo:** https://employee-leave-prediction.streamlit.app/
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/employee-attrition-home.png" alt="Employee Attrition Predictor" width="900"/>
+  <img src="images/employee-attrition-home.png" alt="Employee Attrition Predictor" width="400"/>
 </p>
 
 ---
@@ -47,6 +47,12 @@ streamlit run app.py
 ```
 
 ---
+
+## 👨‍💻 Author
+
+Made with ❤️ by **Bhanu Joshi**
+
+If you found this project useful, consider giving it a ⭐.
 
 ## 👨‍💻 Author
 
